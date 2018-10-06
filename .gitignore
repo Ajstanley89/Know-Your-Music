@@ -105,3 +105,6 @@ venv.bak/
 
 # api keys
 config.py
+
+# .DS_store
+.DS_Store
